@@ -1,0 +1,68 @@
+
+a{
+	text-decoration: none;
+	color: lightgray;
+}
+a:hover{
+	text-decoration: underline;
+	background-color: darkgray;
+}
+.col1, .col2{
+	width: 500px;
+	text-align: justify;
+	padding: 10px;
+}
+
+.col2{
+	float: left;
+
+}
+.col1{
+	float: left;
+}
+.imgcenter{
+	width: 400px;
+	height: 200px;
+	display: block;
+	margin: 0 auto;
+}
+
+header{
+	font-size: 50px;
+}
+
+li{
+	display: inline-block;
+	text-align: left;
+}
+nav{
+	background-color: gray;
+	height: 50px;
+	position: fixed;
+	top: 0px;
+	left:0px;
+	font-size: 20px;
+	width: 100%;
+}
+
+#img1{
+	padding-top: 60px;
+}
+
+.div1{
+	padding-top: 60px;
+}
+.center{
+	text-align: center;
+	width: 100%;
+	margin: 0 auto;
+	padding: 0 5%;
+}
+
+
+
+
+
+
+
+
